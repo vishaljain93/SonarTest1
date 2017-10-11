@@ -1,0 +1,5 @@
+projectKey=SonarQubePractice1
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/SonarQubePractice1
+ceTaskId=AV8G1EHgyPid2VXWCg_b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV8G1EHgyPid2VXWCg_b
