@@ -13,5 +13,6 @@ public class App
     public static void main( String[] args )
     {
         LOGGER.info("Hello Jenkins!!!");
+        LOGGER.info("Working");
     }
 }
